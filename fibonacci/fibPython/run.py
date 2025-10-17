@@ -8,7 +8,6 @@
 # - The --n argument sets which Fibonacci number to calculate.
 # - If --n is not provided, the script defaults to N = 5.
 # - The script prints the result for each method, timing, and the full Fibonacci series from 1 to N.
-# - For large N, the recursive method may take a long time to run.
 
 
 from fib import fib_iterative, fib_recursive, fib_dynamic

@@ -1,3 +1,20 @@
+/*
+ * Instructions to Compile and Run:
+ *
+ *   Compile the program using gcc:
+ *    gcc -o fib.exe main.c fib.c
+ *
+ *   Run the program:
+ *    ./fib.exe          (Linux/macOS)
+ *    fib.exe            (Windows)
+ *
+ *    Enter a number when prompted to see:
+ *    - Iterative Fibonacci value and operations count
+ *    - Recursive Fibonacci value and operations count
+ *    - Dynamic Programming Fibonacci value and operations count
+ *
+ */
+
 #include <stdio.h>
 #include "fib.h"
 
